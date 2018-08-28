@@ -1,6 +1,6 @@
 # Tetris
 
 # Current limits
-No color support
-No music support
+No color support \n
+No music support \n
 A bug: rotation near borders would split the block  

@@ -1,17 +1,17 @@
 # Tetris
 
 # How to play
-Left / Right / Down arros keys to move blocks
+Left / Right / Down arros keys to move blocks.
 
-Up arrow key to rotate blocks
+Up arrow key to rotate blocks.
 
-Space key to drop blocks immediately
+Space key to drop blocks immediately.
 
-Z (harder) and X (easier) key to change game level
+Z (harder) and X (easier) key to change game level.
 
 # Current limits
-No color support
+No color support.
 
-No music support
+No music support.
 
-A bug: rotation near borders would split the block  
+Rotation near borders would split the block.  

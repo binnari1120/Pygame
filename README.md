@@ -1,6 +1,8 @@
 # Tetris
 A simply python Tetris game mainly using Pygame and Numpy.
 
+
+
 # How to play
 Left / Right / Down arros keys to move blocks.
 

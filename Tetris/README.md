@@ -1,7 +1,7 @@
 # Tetris
 A simply python Tetris game mainly using Pygame and Numpy.
 
-![alt text](Tetris/1.png "Description goes here")
+![Test Image 1](1.png)
 
 # How to play
 Left / Right / Down arros keys to move blocks.
